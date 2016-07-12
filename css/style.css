@@ -1,7 +1,9 @@
 html,
 body{
 	height: 100%;
-
+}
+img {
+    max-width: 100%;
 }
 .loader {
 	position: fixed;
@@ -25,13 +27,13 @@ body{
 	background-color: #B1575A;
 }
 .row-yellow{
-	background-color: #FFD37D;
+	background-color: #A6FFFF;
 }
 .row-green{
-	background-color: #C2FF7D;
+	background-color: #B1ABA9;
 }
 .row-blue{
-	background-color: #7DF0FF;
+	background-color: rgba(148, 161, 162, 0.67);
 }
 .row-blue > .container{
 	padding: 0;
@@ -45,10 +47,42 @@ body{
   }
   #sidebar{
     display: table-cell;
-/*    background-color: #f9f9f9;
-    border-left: 1px solid #f1f1f1;*/
   }
- 
+#cover {
+    background: #222 url('../img/background.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+.section-content {
+    padding: 5rem 0;
+}
+
+#about {
+    background: url('../img/background.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.about-text {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+#footer-main {
+    background: #222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+}
 
 .author-note{
 

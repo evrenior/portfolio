@@ -5,7 +5,7 @@ $(function () {
 
     $('#contact-form').on('submit', function (e) {
         if (!e.isDefaultPrevented()) {
-            var url = "contact.php";
+            var url = "../portfolio/contact.php";
             $.ajax({
                 type: "POST",
                 url: url,
