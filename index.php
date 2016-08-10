@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"> </script>
-    <link rel="stylesheet" href="./css/fakeLoader.css">
-    <script src="./js/fakeLoader.min.js"></script>
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/font-awesome.css">    
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="./css/style.css">
-    
-  </head>
+    <head>
+        <!-- Required meta tags always come first -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"> </script>
+        <link rel="stylesheet" href="./css/fakeLoader.css">
+        <script src="./js/fakeLoader.min.js"></script>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" href="./css/font-awesome.css">    
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
   <body>
   <div id="fakeLoader"></div>
     <section id="cover">
