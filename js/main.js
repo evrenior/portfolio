@@ -1,8 +1,5 @@
-console.log(123);
 $(function () {
-    
     $('#contact-form').validator();
-
     $('#contact-form').on('submit', function (e) {
         if (!e.isDefaultPrevented()) {
             var url = "../portfolio/contact.php";
