@@ -34,6 +34,7 @@
             </div>
         </section>
         <script type="text/javascript">    
+//animation on load        
             (function ($) {
                 $("#fakeLoader").fakeLoader({ 
                     timeToHide:2000, //Time in milliseconds for fakeLoader disappear
