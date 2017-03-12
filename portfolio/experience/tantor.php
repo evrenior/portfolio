@@ -18,9 +18,13 @@
             <li>Improvement of MVC framework development skills</li>
         </ul>
     </div>
-    Libraries and Technologies: Zend, Adobe Sign API, MariaDB, CentOS 6, Select2, FormValidation
     <div class="card-footer">
         <div class="row">
+            <div class="lead col-xs-6 col-sm-3">
+                <button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Zend, Adobe Sign API, MariaDB, CentOS 6, Select2, FormValidation">
+                    Environment
+                </button>
+            </div>
             <div class="lead col-xs-6 col-sm-2 col-sm-offset-10"> 
                 <a href="http://tantor.com">Official page</a>
             </div>
